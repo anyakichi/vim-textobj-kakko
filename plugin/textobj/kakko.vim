@@ -2,6 +2,8 @@
 " Maintainer: INAJIMA Daisuke <inajima@sopht.jp>
 " Version: 0.1
 
+scriptencoding utf-8
+
 call textobj#user#plugin('kakko', {
 \   'kakko': {
 \	'*pattern*': ['（', '）'],
